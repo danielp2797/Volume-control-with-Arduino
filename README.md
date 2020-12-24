@@ -9,4 +9,8 @@ The goal of the project is to be able to control the volumne of your pc using ul
 
 ## Software requirements
 1. Arduino 1.8.10 (https://www.arduino.cc/en/software)
+2. Python 3 (https://www.python.org/downloads/)
+3. Python libraries: serial, re, ctypes, comtypes, pycaw
 
+## Tested in: 
+Windows 10, Python 3.7.4
