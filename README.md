@@ -14,7 +14,7 @@ The goal of the project is to be able to control the volumne of your pc using ul
 
 ## Circuit diagram
 
-![alt text](https://github.com/[danielp2797]/[Volume-control-with-Arduino]/blob/[master]/ultrasonic_controllercircuit_diagram.jpg?raw=true)
+![alt text](https://github.com/[danielp2797]/[Volume-control-with-Arduino]/blob/[master]/ultrasonic_controller/circuit_diagram.jpg?raw=true)
 
 ## Tested in: 
 Windows 10, Python 3.7.4
