@@ -12,5 +12,9 @@ The goal of the project is to be able to control the volumne of your pc using ul
 2. Python 3 (https://www.python.org/downloads/)
 3. Python libraries: serial, re, ctypes, comtypes, pycaw
 
+## Circuit diagram
+
+![alt text](https://github.com/[danielp2797]/[Volume-control-with-Arduino]/blob/[master]/ultrasonic_controllercircuit_diagram.jpg?raw=true)
+
 ## Tested in: 
 Windows 10, Python 3.7.4
