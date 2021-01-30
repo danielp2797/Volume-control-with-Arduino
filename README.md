@@ -25,7 +25,7 @@ The goal of the project is to be able to control the volumne of your pc using ul
 ![](/ultrasonic_controller/circuit_diagram.png)
 
 ## Set up steps.
-Due to the middle complexity of the project, I assume that you understand the basics of Python and Arduino, so I will avoid the part of software installation.
+Due to the medium complexity of the project, I assume that you understand the basics of Python and Arduino, so I will avoid the part of software installation.
 
 1. Follow the circuit diagram to build the circuit.
 2. Send the ultrasonic_controller.ino to the Arduino device.
